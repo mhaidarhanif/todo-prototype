@@ -2,6 +2,8 @@
 
 A simple todo app to save and list various kinds of things to do.
 
+![mindblown](./images/mindblown.gif)
+
 This is a markdown documentation with `.md` format.
 
 ![Screenshot](./images/todo.png)
@@ -14,6 +16,8 @@ In the app, we can:
 - List todo
 - Delete todo
 - Favorite todos
+  - Use a star symbol
+    - With yellow color
 
 ## Inspirations
 
